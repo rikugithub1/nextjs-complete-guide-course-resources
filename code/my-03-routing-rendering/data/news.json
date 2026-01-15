@@ -1,0 +1,90 @@
+[
+  {
+    "id": "n1",
+    "slug": "will-ai-replace-humans",
+    "title": "Will AI Replace Humans?",
+    "image": "ai-robot.jpg",
+    "date": "2021-07-01",
+    "category": "Technology",
+    "summary": "Since late 2022 AI is on the rise and many worry whether it will replace humans.",
+    "content": "Since late 2022 AI is on the rise and therefore many people worry whether AI will replace humans. The answer is not that simple. AI is a tool that can be used to automate tasks, but it can also be used to augment human capabilities. The future is not set in stone, but it is clear that AI will play a big role in the future. The question is how we will use it.",
+    "publishedAt": "2021-07-01"
+  },
+  {
+    "id": "n2",
+    "slug": "beaver-plague",
+    "title": "A Plague of Beavers",
+    "image": "beaver.jpg",
+    "date": "2022-05-01",
+    "category": "Nature",
+    "summary": "Beavers are taking over the world and flooding entire cities.",
+    "content": "Beavers are taking over the world. They are building dams everywhere and flooding entire cities. What can we do to stop them?",
+    "publishedAt": "2022-05-01"
+  },
+  {
+    "id": "n3",
+    "slug": "couple-cooking",
+    "title": "Spend more time together!",
+    "image": "couple-cooking.jpg",
+    "date": "2024-03-01",
+    "category": "Lifestyle",
+    "summary": "Cooking together is a great way to spend more time with your partner.",
+    "content": "Cooking together is a great way to spend more time with your partner. It is fun and you get to eat something delicious afterwards. What are you waiting for? Get cooking!",
+    "publishedAt": "2024-03-01"
+  },
+  {
+    "id": "n4",
+    "slug": "hiking",
+    "title": "Hiking is the best!",
+    "image": "hiking.jpg",
+    "date": "2024-01-01",
+    "category": "Outdoor",
+    "summary": "Hiking is a great way to get exercise and enjoy nature.",
+    "content": "Hiking is a great way to get some exercise and enjoy the great outdoors. It is also a great way to clear your mind and reduce stress. So what are you waiting for? Get out there and start hiking!",
+    "publishedAt": "2024-01-01"
+  },
+  {
+    "id": "n5",
+    "slug": "landscape",
+    "title": "The beauty of landscape",
+    "image": "landscape.jpg",
+    "date": "2022-07-01",
+    "category": "Photography",
+    "summary": "Landscape photography captures the beauty of nature.",
+    "content": "Landscape photography is a great way to capture the beauty of nature. It is also a great way to get outside and enjoy the great outdoors. So what are you waiting for? Get out there and start taking some pictures!",
+    "publishedAt": "2022-07-01"
+  },
+  {
+    "id": "n6",
+    "slug": "nextjs-app-router-gets-faster",
+    "title": "Next.js App Router Gets Faster",
+    "image": "nextjs.jpg",
+    "date": "2026-01-02",
+    "category": "Technology",
+    "summary": "The latest Next.js update significantly improves performance for the App Router.",
+    "content": "The Next.js team announced performance enhancements that reduce server response times and improve caching behavior. These changes make large-scale applications faster and more reliable.",
+    "publishedAt": "2026-01-02"
+  },
+  {
+    "id": "n7",
+    "slug": "typescript-adoption-continues-to-rise",
+    "title": "TypeScript Adoption Continues to Rise",
+    "image": "typescript.jpg",
+    "date": "2026-01-04",
+    "category": "Development",
+    "summary": "More companies are choosing TypeScript for better maintainability.",
+    "content": "TypeScript's static typing and excellent editor support continue to attract developers. Frameworks like Next.js now strongly encourage TypeScript for building scalable applications.",
+    "publishedAt": "2026-01-04"
+  },
+  {
+    "id": "n8",
+    "slug": "remote-work-tools-record-usage",
+    "title": "Remote Work Tools See Record Usage",
+    "image": "remote-work.jpg",
+    "date": "2026-01-05",
+    "category": "Business",
+    "summary": "Collaboration platforms report record usage as remote work remains popular.",
+    "content": "Companies continue investing in remote work infrastructure. Messaging, video conferencing, and project management tools are seeing increased adoption across industries.",
+    "publishedAt": "2026-01-05"
+  }
+]
